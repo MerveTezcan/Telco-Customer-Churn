@@ -1,6 +1,6 @@
 # Telco-Customer-Churn 📲📡👨‍👩‍👧‍👦
 
-## Business Problem
+## 1- Business Problem
 📃 It is desired to develop a machine learning model that can predict customers who will leave the company. It is expected that the necessary data analysis and feature engineering steps will be carried out before developing the model
 
 ## 2- Dataset Story
